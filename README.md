@@ -7,6 +7,8 @@ Lična zbirka recepata na srpskom. Svaki recept ima sastojke, jasne korake i pro
 | Recept | Kategorija | Količina | Ukupno vreme | Status |
 |---|---|---|---|---|
 | [Klasične juneće faširane šnicle](recepti/glavna-jela/junece-fasirane-snicle.md) | Glavna jela | 6 do 8 šnicli | oko 50 do 60 min | Za probu |
+| [Vladine lazanje](recepti/glavna-jela/lazanje.md) | Glavna jela | Za dopunu | Sos 45 do 60 min + pečenje 45 min, uz pripremu i slaganje | Za probu |
+| [Posne špagete sa škampima, limunom i mirođijom](recepti/glavna-jela/spagete-sa-skampima-posno.md) | Glavna jela | 200 g špageta + 300 g škampa | Nije navedeno | Za probu |
 
 ## Dodaj novi recept
 
